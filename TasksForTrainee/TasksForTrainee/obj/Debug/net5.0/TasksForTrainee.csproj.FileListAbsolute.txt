@@ -1,0 +1,16 @@
+C:\Users\oleks\source\repos\TasksForTrainee\TasksForTrainee\bin\Debug\net5.0\TasksForTrainee.exe
+C:\Users\oleks\source\repos\TasksForTrainee\TasksForTrainee\bin\Debug\net5.0\TasksForTrainee.deps.json
+C:\Users\oleks\source\repos\TasksForTrainee\TasksForTrainee\bin\Debug\net5.0\TasksForTrainee.runtimeconfig.json
+C:\Users\oleks\source\repos\TasksForTrainee\TasksForTrainee\bin\Debug\net5.0\TasksForTrainee.runtimeconfig.dev.json
+C:\Users\oleks\source\repos\TasksForTrainee\TasksForTrainee\bin\Debug\net5.0\TasksForTrainee.dll
+C:\Users\oleks\source\repos\TasksForTrainee\TasksForTrainee\bin\Debug\net5.0\ref\TasksForTrainee.dll
+C:\Users\oleks\source\repos\TasksForTrainee\TasksForTrainee\bin\Debug\net5.0\TasksForTrainee.pdb
+C:\Users\oleks\source\repos\TasksForTrainee\TasksForTrainee\obj\Debug\net5.0\TasksForTrainee.csproj.AssemblyReference.cache
+C:\Users\oleks\source\repos\TasksForTrainee\TasksForTrainee\obj\Debug\net5.0\TasksForTrainee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oleks\source\repos\TasksForTrainee\TasksForTrainee\obj\Debug\net5.0\TasksForTrainee.AssemblyInfoInputs.cache
+C:\Users\oleks\source\repos\TasksForTrainee\TasksForTrainee\obj\Debug\net5.0\TasksForTrainee.AssemblyInfo.cs
+C:\Users\oleks\source\repos\TasksForTrainee\TasksForTrainee\obj\Debug\net5.0\TasksForTrainee.csproj.CoreCompileInputs.cache
+C:\Users\oleks\source\repos\TasksForTrainee\TasksForTrainee\obj\Debug\net5.0\TasksForTrainee.dll
+C:\Users\oleks\source\repos\TasksForTrainee\TasksForTrainee\obj\Debug\net5.0\ref\TasksForTrainee.dll
+C:\Users\oleks\source\repos\TasksForTrainee\TasksForTrainee\obj\Debug\net5.0\TasksForTrainee.pdb
+C:\Users\oleks\source\repos\TasksForTrainee\TasksForTrainee\obj\Debug\net5.0\TasksForTrainee.genruntimeconfig.cache
