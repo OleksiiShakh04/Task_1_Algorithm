@@ -1,0 +1,12 @@
+C:\Users\oleks\source\repos\MyShopDataBaseTask\MyShopDataBaseTask\bin\Debug\MyShop.mdf
+C:\Users\oleks\source\repos\MyShopDataBaseTask\MyShopDataBaseTask\bin\Debug\MyShop_log.ldf
+C:\Users\oleks\source\repos\MyShopDataBaseTask\MyShopDataBaseTask\bin\Debug\MyShopDataBaseTask.exe.config
+C:\Users\oleks\source\repos\MyShopDataBaseTask\MyShopDataBaseTask\bin\Debug\MyShopDataBaseTask.exe
+C:\Users\oleks\source\repos\MyShopDataBaseTask\MyShopDataBaseTask\bin\Debug\MyShopDataBaseTask.pdb
+C:\Users\oleks\source\repos\MyShopDataBaseTask\MyShopDataBaseTask\obj\Debug\MyShopDataBaseTask.csproj.AssemblyReference.cache
+C:\Users\oleks\source\repos\MyShopDataBaseTask\MyShopDataBaseTask\obj\Debug\MyShopDataBaseTask.Form1.resources
+C:\Users\oleks\source\repos\MyShopDataBaseTask\MyShopDataBaseTask\obj\Debug\MyShopDataBaseTask.Properties.Resources.resources
+C:\Users\oleks\source\repos\MyShopDataBaseTask\MyShopDataBaseTask\obj\Debug\MyShopDataBaseTask.csproj.GenerateResource.cache
+C:\Users\oleks\source\repos\MyShopDataBaseTask\MyShopDataBaseTask\obj\Debug\MyShopDataBaseTask.csproj.CoreCompileInputs.cache
+C:\Users\oleks\source\repos\MyShopDataBaseTask\MyShopDataBaseTask\obj\Debug\MyShopDataBaseTask.exe
+C:\Users\oleks\source\repos\MyShopDataBaseTask\MyShopDataBaseTask\obj\Debug\MyShopDataBaseTask.pdb

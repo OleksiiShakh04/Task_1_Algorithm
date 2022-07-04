@@ -1,0 +1,16 @@
+C:\Users\oleks\source\repos\Shapes\Shapes\bin\Debug\net5.0\Shapes.exe
+C:\Users\oleks\source\repos\Shapes\Shapes\bin\Debug\net5.0\Shapes.deps.json
+C:\Users\oleks\source\repos\Shapes\Shapes\bin\Debug\net5.0\Shapes.runtimeconfig.json
+C:\Users\oleks\source\repos\Shapes\Shapes\bin\Debug\net5.0\Shapes.runtimeconfig.dev.json
+C:\Users\oleks\source\repos\Shapes\Shapes\bin\Debug\net5.0\Shapes.dll
+C:\Users\oleks\source\repos\Shapes\Shapes\bin\Debug\net5.0\ref\Shapes.dll
+C:\Users\oleks\source\repos\Shapes\Shapes\bin\Debug\net5.0\Shapes.pdb
+C:\Users\oleks\source\repos\Shapes\Shapes\obj\Debug\net5.0\Shapes.csproj.AssemblyReference.cache
+C:\Users\oleks\source\repos\Shapes\Shapes\obj\Debug\net5.0\Shapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oleks\source\repos\Shapes\Shapes\obj\Debug\net5.0\Shapes.AssemblyInfoInputs.cache
+C:\Users\oleks\source\repos\Shapes\Shapes\obj\Debug\net5.0\Shapes.AssemblyInfo.cs
+C:\Users\oleks\source\repos\Shapes\Shapes\obj\Debug\net5.0\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\oleks\source\repos\Shapes\Shapes\obj\Debug\net5.0\Shapes.dll
+C:\Users\oleks\source\repos\Shapes\Shapes\obj\Debug\net5.0\ref\Shapes.dll
+C:\Users\oleks\source\repos\Shapes\Shapes\obj\Debug\net5.0\Shapes.pdb
+C:\Users\oleks\source\repos\Shapes\Shapes\obj\Debug\net5.0\Shapes.genruntimeconfig.cache
